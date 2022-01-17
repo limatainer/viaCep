@@ -1,5 +1,14 @@
 .home-container {
     padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 60px 10px;
+}
+
+.home-container {
+    width: 100%;
+    height: auto;
 }
 
 .start-button {
